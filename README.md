@@ -1,6 +1,6 @@
 # Projet 1 — Analyse des journaux d'un pare-feu
 
-**Auteur : NOM Prénom** (à remplacer)
+**Auteur : Cheikh Adama Sow
 
 ## Lancer le projet
 ```bash
